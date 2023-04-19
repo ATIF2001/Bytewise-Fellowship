@@ -21,8 +21,9 @@ I have started 3 months fellowship with Bytewise limited. I have decided to uplo
 |  Javascript (Basic) | Done|
 |  DOM  | Done|
 |  Async & Await| Done|
-
-
+| TODO LIST| Done|
+|  React | Done|
+| Node js| In progress|
 ## Running projects
 
 To run js projects, run the following command
