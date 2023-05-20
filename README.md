@@ -23,7 +23,8 @@ I have started 3 months fellowship with Bytewise limited. I have decided to uplo
 |  Async & Await| Done|
 | TODO LIST| Done|
 |  React | Done|
-| Node js| In progress|
+| Node js| Done|
+| MERN app dev| In prosgress|
 ## Running projects
 
 To run js projects, run the following command
