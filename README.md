@@ -24,7 +24,8 @@ I have started 3 months fellowship with Bytewise limited. I have decided to uplo
 | TODO LIST| Done|
 |  React | Done|
 | Node js| Done|
-| MERN app dev| In prosgress|
+| MERN app dev| Done|
+| Final Project| Done|
 ## Running projects
 
 To run js projects, run the following command
